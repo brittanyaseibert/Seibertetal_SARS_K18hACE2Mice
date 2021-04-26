@@ -7,5 +7,9 @@ Seibert, Caceres, Cardenas-Garcia, Carnaccini, Geiger, Rajao, Otesen, Perez, 202
 Code related to the analyses performed at the ASV level is reported.
 
 # Work-flow 
-##dd
-d
+
+## Decontam 
+
+The exported R script will show the analysis and use of program decontam (Nicole Davis et al. publication https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0605-2) using the files that are created from dada2. 
+
+## 
