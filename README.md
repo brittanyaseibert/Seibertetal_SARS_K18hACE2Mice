@@ -18,4 +18,4 @@ This exported R script will show the proccess of using the exported decontam fil
 
 ### AlphaDiversity_Analysis
 
-This exported R script will show the analysis of different alpha diversity measures (Observed ASVs, Shannon index, and Inverse Simpson index) of the different groups within the ceca and the lungs. This will correspond to Figures 2A-D, 4A-C, 4F-H, 5A-D, and Supplemental Figures S1-4.
+This exported R script will show the script used to rarify the data at a depth of 12,000, analysis of different alpha diversity measures (Observed ASVs, Shannon index, and Inverse Simpson index) of the different groups within the ceca and the lungs. This will correspond to Figures 2A-D, 4A-C, 4F-H, 5A-D, and Supplemental Figures S1-4.
