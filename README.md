@@ -12,4 +12,8 @@ Code related to the analyses performed at the ASV level is reported.
 
 The exported R script will show the analysis and use of program decontam (Nicole Davis et al. publication https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0605-2) using the files that are created from dada2. 
 
-## 
+### SampleProcessingandSetup
+
+This exported R script will show the proccess of using the exported decontam files to remove any variants with unknown phylas, are classified as Eukaryotes, Chloroplasts or Mitochondria (since the purpose of the paper was to analyze Bacteria), and remove any samples with a coverage of less 10,000 reads/sample (low coverage). The script also produces a boxplot that compares the sequencing coverage among negative controls and samples (lung and ceca). 
+
+### AlphaDiversity_Analysis
