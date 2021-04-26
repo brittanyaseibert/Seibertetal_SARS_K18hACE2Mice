@@ -17,3 +17,5 @@ The exported R script will show the analysis and use of program decontam (Nicole
 This exported R script will show the proccess of using the exported decontam files to remove any variants with unknown phylas, are classified as Eukaryotes, Chloroplasts or Mitochondria (since the purpose of the paper was to analyze Bacteria), and remove any samples with a coverage of less 10,000 reads/sample (low coverage). The script also produces a boxplot that compares the sequencing coverage among negative controls and samples (lung and ceca). 
 
 ### AlphaDiversity_Analysis
+
+This exported R script will show the analysis of different alpha diversity measures (Observed ASVs, Shannon index, and Inverse Simpson index) of the different groups within the ceca and the lungs. This will correspond to Figures 2A-D, 4A-C, 4F-H, 5A-D, and Supplemental Figures S1-4.
