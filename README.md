@@ -23,3 +23,7 @@ This exported R script will show the script used to rarify the data at a depth o
 ### BetaDiversity_Analysis
 
 This exported R script will show the script used to produce the graphs used to show the beta diversity comparisons of groups within the ceca and the lungs. This will correspond to Figures 2D-G, 4D and 4H, and 5D-G and Supplemental Figures S5.
+
+### Taxonomic_Analysis 
+
+This exported R script will show the scripts used to analyze taxonomy relative abundance differences among groups in the cecum and lung. The phylum boxplots are analyzed using the relative abundance of each ASV. The family boxplots are analyzed using the relative abundance of ASVs that are >1% and >2% in the cecum and the lung, respectively. This was performed this way since we wanted to look for overall trends in the more abundant phyla and to account for those ASVS that have very low relative abundances that could potentially be PCR artifacts or contamination. 
